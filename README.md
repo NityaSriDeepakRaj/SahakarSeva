@@ -14,7 +14,7 @@
 **Theme:** Agriculture, FoodTech and Rural Development | **Category:** Software  
 **Team:** CodeKrafters | **Team ID:** 119065
 
-[Live Demo](http://localhost:3000) • [Architecture](#technology-stack) • [Matching Formula](#the-matching-formula) • [Run Instructions](#-quick-start--run-instructions)
+[Live Demo](sahakar-seva-opal.vercel.app) • [Architecture](#technology-stack) • [Matching Formula](#the-matching-formula) • [Run Instructions](#-quick-start--run-instructions)
 
 ---
 
