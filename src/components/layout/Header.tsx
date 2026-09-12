@@ -67,7 +67,7 @@ export default function Header() {
             </div>
             <div className="flex flex-col">
               <span className="font-heading font-bold text-xl tracking-tight text-forest-green leading-none">
-                SAHAYAK SEVA
+                SAHAKAR SEVA
               </span>
               <span className="text-[10px] tracking-wider uppercase font-semibold text-soft-teal mt-0.5">
                 Worker-Owned Cooperative
@@ -238,7 +238,7 @@ export default function Header() {
               <div className="pt-2 border-t border-gray-100 space-y-1">
                 <Link href="/services" className="block py-2 text-sm text-gray-text hover:text-neutral-dark">Browse Services</Link>
                 <Link href="/workers" className="block py-2 text-sm text-gray-text hover:text-neutral-dark">Find Workers</Link>
-                <Link href="/about" className="block py-2 text-sm text-gray-text hover:text-neutral-dark">About Sahayak Seva</Link>
+                <Link href="/about" className="block py-2 text-sm text-gray-text hover:text-neutral-dark">About Sahakar Seva</Link>
                 <Link href="/impact" className="block py-2 text-sm text-gray-text hover:text-neutral-dark">Impact Metrics</Link>
                 <Link href="/contact" className="block py-2 text-sm text-gray-text hover:text-neutral-dark">Emergency Helpline & Contact</Link>
               </div>

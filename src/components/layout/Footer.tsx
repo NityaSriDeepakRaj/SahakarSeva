@@ -14,7 +14,7 @@ export default function Footer() {
                 <Shield className="w-5 h-5 text-white" />
               </div>
               <span className="font-heading font-bold text-xl tracking-tight text-forest-green">
-                SAHAYAK SEVA
+                SAHAKAR SEVA
               </span>
             </div>
             <p className="text-sm text-gray-text leading-relaxed">
@@ -27,11 +27,11 @@ export default function Footer() {
               </p>
               <p className="flex items-center gap-2">
                 <PhoneCall className="w-3.5 h-3.5 text-coop-green shrink-0" />
-                24/7 Worker Helpline: 1800-SAHAYAK (Toll-Free)
+                24/7 Worker Helpline: 1800-SAHAKAR (Toll-Free)
               </p>
               <p className="flex items-center gap-2">
                 <Mail className="w-3.5 h-3.5 text-coop-green shrink-0" />
-                support@sahayakseva.org
+                support@sahakarseva.org
               </p>
             </div>
           </div>
@@ -152,7 +152,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-border-gray pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-text">
-          <p>© {new Date().getFullYear()} Sahayak Seva Cooperative Federation. All rights reserved. Regd. under Multi-State Cooperative Societies Act.</p>
+          <p>© {new Date().getFullYear()} Sahakar Seva Cooperative Federation. All rights reserved. Regd. under Multi-State Cooperative Societies Act.</p>
           <div className="flex items-center gap-6">
             <Link href="/legal/privacy" className="hover:text-coop-green transition-colors">
               Privacy Policy

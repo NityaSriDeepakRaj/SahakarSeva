@@ -13,7 +13,7 @@ import {
 export const DEMO_USERS: Record<string, User> = {
   worker: {
     id: 'usr-worker-01',
-    email: 'sunita.sharma@sahayakseva.org',
+    email: 'sunita.sharma@sahakarseva.org',
     phone: '+91 98765 43210',
     fullName: 'Sunita Sharma',
     role: 'worker',
@@ -40,7 +40,7 @@ export const DEMO_USERS: Record<string, User> = {
   },
   admin: {
     id: 'usr-admin-03',
-    email: 'priya.patel@sahayakseva.org',
+    email: 'priya.patel@sahakarseva.org',
     phone: '+91 98222 99887',
     fullName: 'Priya Patel',
     role: 'admin',
@@ -630,7 +630,7 @@ export const TESTIMONIALS_DATA: Testimonial[] = [
     role: 'Master Electrician & Coop Board Member',
     trade: 'Electrical Services',
     avatar: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400',
-    quote: 'On commercial gig platforms, 30% to 40% of my hard-earned money vanished into corporate commissions. With Sahayak Seva, 80% goes straight into my pocket, 5% covers accident health insurance, and 10% builds our cooperative capital. We own our future.',
+    quote: 'On commercial gig platforms, 30% to 40% of my hard-earned money vanished into corporate commissions. With Sahakar Seva, 80% goes straight into my pocket, 5% covers accident health insurance, and 10% builds our cooperative capital. We own our future.',
     rating: 5,
     coopChapter: 'South Delhi Skilled Workers Guild',
   },
@@ -649,7 +649,7 @@ export const TESTIMONIALS_DATA: Testimonial[] = [
     role: 'Artisan Woodworker',
     trade: 'Heritage Restoration',
     avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400',
-    quote: 'The Heritage Skills Premium on Sahayak Seva protects generational woodwork from being treated like cheap modular furniture. When algorithms treated us like disposable cogs, Sahayak Seva gave us an appeal jury of our peers.',
+    quote: 'The Heritage Skills Premium on Sahakar Seva protects generational woodwork from being treated like cheap modular furniture. When algorithms treated us like disposable cogs, Sahakar Seva gave us an appeal jury of our peers.',
     rating: 5,
     coopChapter: 'Walled City Craftsmen Society',
   }
@@ -732,8 +732,8 @@ export const US_PRESENTS_9 = [
 export const FAQS_DATA = [
   {
     category: 'Workers',
-    question: 'How is Sahayak Seva different from commercial gig apps like Urban Company?',
-    answer: 'Unlike corporate platforms that extract 30-40% in commissions and use opaque algorithms to de-prioritize workers, Sahayak Seva is owned by worker cooperatives. 80% of client payments go directly into the worker’s bank account, 5% funds health and accident insurance, and 10% builds cooperative assets. Workers vote on their own wage rates and have a peer jury to resolve disputes.',
+    question: 'How is Sahakar Seva different from commercial gig apps like Urban Company?',
+    answer: 'Unlike corporate platforms that extract 30-40% in commissions and use opaque algorithms to de-prioritize workers, Sahakar Seva is owned by worker cooperatives. 80% of client payments go directly into the worker’s bank account, 5% funds health and accident insurance, and 10% builds cooperative assets. Workers vote on their own wage rates and have a peer jury to resolve disputes.',
   },
   {
     category: 'Workers',
@@ -742,7 +742,7 @@ export const FAQS_DATA = [
   },
   {
     category: 'Customers',
-    question: 'Are Sahayak Seva workers background-checked and verified?',
+    question: 'Are Sahakar Seva workers background-checked and verified?',
     answer: 'Yes, 100%. Every worker undergoes government ID verification, criminal background check, and skill certification by national trade guilds (NSDC, IPA, state wireman licensing). Furthermore, each worker is vouched for by their local cooperative chapter.',
   },
   {
@@ -778,7 +778,7 @@ export const BLOG_POSTS_DATA = [
     author: 'Sunita Sharma (Electrician Guild)',
     readTime: '4 min read',
     image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&q=80&w=800',
-    excerpt: 'A deep-dive into where every single rupee goes when you book a home service on Sahayak Seva, and why commercial platform opacity hurts both customers and gig workers.',
+    excerpt: 'A deep-dive into where every single rupee goes when you book a home service on Sahakar Seva, and why commercial platform opacity hurts both customers and gig workers.',
   },
   {
     id: 'blog-3',

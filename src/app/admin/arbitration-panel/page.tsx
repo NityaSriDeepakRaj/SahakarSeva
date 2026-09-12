@@ -79,7 +79,7 @@ export default function AdminArbitrationPanelPage() {
             Zero Algorithmic Deactivations Without Human Peer Review
           </h2>
           <p className="text-emerald-100/80 text-xs sm:text-sm">
-            Commercial platforms allow automated systems to fire gig workers instantly. On Sahayak Seva, no penalty or strike takes permanent effect until a randomly selected 15-member worker jury reviews verified evidence.
+            Commercial platforms allow automated systems to fire gig workers instantly. On Sahakar Seva, no penalty or strike takes permanent effect until a randomly selected 15-member worker jury reviews verified evidence.
           </p>
         </div>
 

@@ -65,14 +65,14 @@ function SignUpContent() {
     try {
       await signup({
         fullName: selectedRole === 'business' ? companyName : fullName,
-        email: email || `${phone.replace(/\D/g, '')}@sahayakseva.org`,
+        email: email || `${phone.replace(/\D/g, '')}@sahakarseva.org`,
         phone,
         role: selectedRole,
         city,
         address,
       });
 
-      showToast('Registration Complete!', 'Welcome to the Sahayak Seva Cooperative', 'success');
+      showToast('Registration Complete!', 'Welcome to the Sahakar Seva Cooperative', 'success');
       router.push('/dashboard');
     } catch (e) {
       showToast('Error', 'Unable to complete verification', 'error');
@@ -433,7 +433,7 @@ function SignUpContent() {
           {/* Bottom Link to Sign In */}
           <div className="text-center pt-6 mt-6 border-t border-gray-100">
             <p className="text-xs sm:text-sm text-gray-text">
-              Already registered with Sahayak Seva?{' '}
+              Already registered with Sahakar Seva?{' '}
               <Link
                 href="/auth/signin"
                 className="font-bold text-coop-green hover:underline"

@@ -12,7 +12,7 @@ export default function BlogPage() {
           Cooperative Thought Leadership
         </span>
         <h1 className="font-heading font-extrabold text-3xl sm:text-5xl text-neutral-dark tracking-tight mt-3">
-          The Sahayak Seva Journal
+          The Sahakar Seva Journal
         </h1>
         <p className="text-gray-text text-base sm:text-lg mt-3 leading-relaxed">
           Essays, investigative reports, and economic analyses on worker power, digital platform cooperatives, and fair living wages in India.

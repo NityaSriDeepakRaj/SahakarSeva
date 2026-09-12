@@ -115,7 +115,7 @@ export default function EarningsPage() {
       {/* Educational Banner: Why 80/20 Matters */}
       <div className="bg-light-gray rounded-3xl p-6 sm:p-8 border border-border-gray space-y-4">
         <h3 className="font-heading font-bold text-lg text-neutral-dark">
-          How Sahayak Seva Compares to Corporate Platforms
+          How Sahakar Seva Compares to Corporate Platforms
         </h3>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm">
           <div className="p-5 rounded-2xl bg-white border border-red-200 space-y-2">
@@ -129,7 +129,7 @@ export default function EarningsPage() {
           </div>
 
           <div className="p-5 rounded-2xl bg-white border border-coop-green/40 space-y-2">
-            <h4 className="font-heading font-bold text-coop-green text-base">Sahayak Seva Cooperative</h4>
+            <h4 className="font-heading font-bold text-coop-green text-base">Sahakar Seva Cooperative</h4>
             <ul className="space-y-1.5 text-gray-600 list-disc pl-4">
               <li>Guarantees 80% direct net wage directly to worker account.</li>
               <li>Peer arbitration jury resolves all rating and penalty appeals.</li>

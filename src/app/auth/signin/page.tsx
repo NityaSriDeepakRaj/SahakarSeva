@@ -53,7 +53,7 @@ export default function SignInPage() {
                 <Shield className="w-7 h-7" />
               </div>
               <h1 className="font-heading font-extrabold text-2xl text-neutral-dark">
-                Welcome to Sahayak Seva
+                Welcome to Sahakar Seva
               </h1>
               <p className="text-xs sm:text-sm text-gray-text mt-1">
                 Access your cooperative dashboard & transparent ledger
@@ -115,7 +115,7 @@ export default function SignInPage() {
                     required
                     value={identifier}
                     onChange={(e) => setIdentifier(e.target.value)}
-                    placeholder="e.g. sunita@sahayakseva.org or 9876543210"
+                    placeholder="e.g. sunita@sahakarseva.org or 9876543210"
                     className="w-full pl-10 pr-4 py-3 rounded-xl border border-border-gray focus:border-coop-green focus:ring-1 focus:ring-coop-green text-sm transition-all"
                   />
                 </div>
@@ -168,7 +168,7 @@ export default function SignInPage() {
                   href="/auth/signup"
                   className="font-bold text-coop-green hover:underline"
                 >
-                  Join Sahayak Seva
+                  Join Sahakar Seva
                 </Link>
               </p>
             </div>

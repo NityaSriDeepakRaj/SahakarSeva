@@ -43,7 +43,7 @@ export default function HowItWorks() {
             Transparent Workflow
           </span>
           <h2 className="font-heading font-extrabold text-3xl sm:text-4xl text-neutral-dark tracking-tight mt-3">
-            How Sahayak Seva Works
+            How Sahakar Seva Works
           </h2>
           <p className="text-gray-text text-base mt-2">
             A cooperative ecosystem designed to balance worker dignity with seamless customer convenience.

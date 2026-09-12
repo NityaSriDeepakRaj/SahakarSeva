@@ -28,7 +28,7 @@ const mono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SAHAYAK SEVA - Worker-First Cooperative Gig Services Marketplace",
+  title: "SAHAKAR SEVA - Worker-First Cooperative Gig Services Marketplace",
   description: "A digital marketplace owned by worker cooperatives. Designed for workers, trusted by communities. 80% direct net wages, transparent pricing, and democratic governance.",
   keywords: ["cooperative marketplace", "gig workers", "fair wages", "home services", "electrician", "plumber", "cleaning", "worker empowerment"],
 };

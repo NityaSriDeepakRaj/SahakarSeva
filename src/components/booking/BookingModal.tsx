@@ -154,7 +154,7 @@ export default function BookingModal({ service, worker, isOpen, onClose, onSucce
               <div className="p-4 rounded-2xl bg-sage-green/15 border border-sage-green/30 text-xs">
                 <div className="flex items-center gap-2 text-forest-green font-bold mb-2">
                   <ShieldCheck className="w-4 h-4 text-coop-green" />
-                  <span>The Sahayak Seva Fair Wage Pledge</span>
+                  <span>The Sahakar Seva Fair Wage Pledge</span>
                 </div>
                 <p className="text-gray-600 leading-relaxed">
                   Unlike corporate platforms that retain 35% in hidden fees, your payment is transparently distributed as follows:

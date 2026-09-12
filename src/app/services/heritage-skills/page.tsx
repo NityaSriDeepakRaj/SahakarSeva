@@ -128,7 +128,7 @@ export default function HeritageSkillsPage() {
       <div className="bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-3xl p-8 space-y-3">
         <h3 className="font-heading font-bold text-xl text-neutral-dark">Why Heritage Skills Matter</h3>
         <p className="text-sm text-gray-600 leading-relaxed">
-          India's traditional craftsmanship — from Mughal-era Zillij tilework to pre-colonial Chunam lime plaster — is disappearing as younger generations move to higher-paying technical trades. Sahayak Seva's Heritage Marketplace creates an economic premium that makes mastering these skills financially competitive, preserving cultural knowledge for future generations.
+          India's traditional craftsmanship — from Mughal-era Zillij tilework to pre-colonial Chunam lime plaster — is disappearing as younger generations move to higher-paying technical trades. Sahakar Seva's Heritage Marketplace creates an economic premium that makes mastering these skills financially competitive, preserving cultural knowledge for future generations.
         </p>
         <div className="grid grid-cols-3 gap-4 mt-4">
           {[

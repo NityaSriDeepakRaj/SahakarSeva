@@ -50,7 +50,7 @@ function WorkersContent() {
           Find Guild-Certified Workers
         </h1>
         <p className="text-gray-text text-base sm:text-lg mt-3 leading-relaxed">
-          Every worker on Sahayak Seva is a democratic co-owner of their trade guild. Verified identity, peer vouches, and transparent rates.
+          Every worker on Sahakar Seva is a democratic co-owner of their trade guild. Verified identity, peer vouches, and transparent rates.
         </p>
       </div>
 

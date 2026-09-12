@@ -12,7 +12,7 @@ export default function TermsOfServicePage() {
           Terms of Service & Cooperative Covenant
         </h1>
         <p className="text-sm text-gray-text mt-2">
-          Effective Date: September 2026 • Sahayak Seva Multi-State Cooperative Federation
+          Effective Date: September 2026 • Sahakar Seva Multi-State Cooperative Federation
         </p>
       </div>
 
@@ -24,7 +24,7 @@ export default function TermsOfServicePage() {
               Democratic Mutualism
             </h3>
             <p className="text-sm text-gray-text leading-relaxed">
-              By registering as a worker, customer, or enterprise member on Sahayak Seva, you participate in a cooperative ecosystem where fair compensation, safe workplaces, and non-exploitative pricing are enforceable rights.
+              By registering as a worker, customer, or enterprise member on Sahakar Seva, you participate in a cooperative ecosystem where fair compensation, safe workplaces, and non-exploitative pricing are enforceable rights.
             </p>
           </div>
         </div>

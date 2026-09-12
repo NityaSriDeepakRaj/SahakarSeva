@@ -27,7 +27,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   // Load user from localStorage or cookies on mount
   useEffect(() => {
     try {
-      const stored = localStorage.getItem('sahayak_auth_user');
+      const stored = localStorage.getItem('sahakar_auth_user');
       if (stored) {
         setUser(JSON.parse(stored));
       }
@@ -40,9 +40,9 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
   const saveUserSession = (userData: User) => {
     setUser(userData);
-    localStorage.setItem('sahayak_auth_user', JSON.stringify(userData));
+    localStorage.setItem('sahakar_auth_user', JSON.stringify(userData));
     // Set a lightweight cookie for client/server route checks
-    document.cookie = `sahayak_token=active_session_${userData.role}; path=/; max-age=86400; SameSite=Lax`;
+    document.cookie = `sahakar_token=active_session_${userData.role}; path=/; max-age=86400; SameSite=Lax`;
   };
 
   const login = async (identifier: string, _password?: string): Promise<boolean> => {
@@ -65,7 +65,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     // Default fallback mock login if user enters custom credentials
     const customUser: User = {
       id: `usr-${Date.now()}`,
-      email: identifier.includes('@') ? identifier : `${identifier}@sahayakseva.org`,
+      email: identifier.includes('@') ? identifier : `${identifier}@sahakarseva.org`,
       phone: identifier.includes('@') ? '+91 98765 00000' : identifier,
       fullName: 'Registered Member',
       role: 'customer',
@@ -92,7 +92,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
     const newUser: User = {
       id: `usr-${Date.now()}`,
-      email: userData.email || 'member@sahayakseva.org',
+      email: userData.email || 'member@sahakarseva.org',
       phone: userData.phone || '+91 98765 12345',
       fullName: userData.fullName || 'Cooperative Member',
       role: userData.role || 'worker',
@@ -111,8 +111,8 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
   const logout = () => {
     setUser(null);
-    localStorage.removeItem('sahayak_auth_user');
-    document.cookie = 'sahayak_token=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT';
+    localStorage.removeItem('sahakar_auth_user');
+    document.cookie = 'sahakar_token=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT';
     router.push('/');
   };
 

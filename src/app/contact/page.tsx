@@ -58,7 +58,7 @@ export default function ContactPage() {
           href="tel:18007242925"
           className="px-6 py-3 rounded-xl bg-red-600 hover:bg-red-700 text-white text-sm font-bold transition-all shadow-md text-center shrink-0"
         >
-          Call 1800-SAHAYAK
+          Call 1800-SAHAKAR
         </a>
       </div>
 
@@ -145,19 +145,19 @@ export default function ContactPage() {
               <div className="p-4 bg-white rounded-2xl border border-border-gray space-y-1">
                 <p className="font-bold text-forest-green text-sm">National Federation Secretariat</p>
                 <p className="text-gray-600">Federation Towers, 14 Barakhamba Road, Connaught Place, New Delhi 110001</p>
-                <p className="text-gray-400 font-mono">delhi@sahayakseva.org</p>
+                <p className="text-gray-400 font-mono">delhi@sahakarseva.org</p>
               </div>
 
               <div className="p-4 bg-white rounded-2xl border border-border-gray space-y-1">
                 <p className="font-bold text-forest-green text-sm">Western India Guild Depot</p>
                 <p className="text-gray-600">Coop Bhavan, Dadar West, Mumbai 400028</p>
-                <p className="text-gray-400 font-mono">mumbai@sahayakseva.org</p>
+                <p className="text-gray-400 font-mono">mumbai@sahakarseva.org</p>
               </div>
 
               <div className="p-4 bg-white rounded-2xl border border-border-gray space-y-1">
                 <p className="font-bold text-forest-green text-sm">Southern India Tech & Guild Hub</p>
                 <p className="text-gray-600">Koramangala 4th Block, 80 Feet Road, Bengaluru 560034</p>
-                <p className="text-gray-400 font-mono">bengaluru@sahayakseva.org</p>
+                <p className="text-gray-400 font-mono">bengaluru@sahakarseva.org</p>
               </div>
             </div>
           </div>

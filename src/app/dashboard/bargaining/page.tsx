@@ -136,7 +136,7 @@ export default function BargainingPage() {
             <h3 className="font-heading font-bold text-neutral-dark">What is Collective Bargaining?</h3>
           </div>
           <p className="text-xs text-gray-text leading-relaxed">
-            Unlike commercial platforms that <strong>set rates unilaterally</strong>, Sahayak Seva lets you — the workers — decide the minimum acceptable rate through democratic voting.
+            Unlike commercial platforms that <strong>set rates unilaterally</strong>, Sahakar Seva lets you — the workers — decide the minimum acceptable rate through democratic voting.
           </p>
           <ul className="space-y-2 text-xs text-gray-600">
             <li className="flex gap-2"><CheckCircle2 className="w-3.5 h-3.5 text-coop-green shrink-0 mt-0.5" /> Every eligible worker gets one vote</li>

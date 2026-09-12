@@ -14,7 +14,7 @@ export default function AboutPage() {
           Democratizing the Gig Economy for India&apos;s Skilled Workers
         </h1>
         <p className="text-gray-text text-base sm:text-lg mt-4 leading-relaxed">
-          Sahayak Seva was founded on a simple truth: the people who repair our homes, clean our spaces, and care for our elderly should own the platform they power.
+          Sahakar Seva was founded on a simple truth: the people who repair our homes, clean our spaces, and care for our elderly should own the platform they power.
         </p>
       </div>
 
@@ -63,7 +63,7 @@ export default function AboutPage() {
           The 80/5/10/5 Economic Formula
         </h2>
         <p className="text-white/80 text-sm sm:text-base max-w-2xl leading-relaxed">
-          Commercial gig apps take up to 40% in speculative fees. Sahayak Seva operates on radical, audited math:
+          Commercial gig apps take up to 40% in speculative fees. Sahakar Seva operates on radical, audited math:
         </p>
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 text-center">
           <div className="p-4 rounded-2xl bg-white/10 backdrop-blur-sm border border-white/20">

@@ -9,7 +9,7 @@ export default function PrivacyPolicyPage() {
           Data Dignity Charter
         </span>
         <h1 className="font-heading font-extrabold text-3xl sm:text-4xl text-neutral-dark tracking-tight mt-3">
-          Sahayak Seva Privacy Policy
+          Sahakar Seva Privacy Policy
         </h1>
         <p className="text-sm text-gray-text mt-2">
           Effective Date: September 2026 • Governed by Multi-State Cooperative Society Standards
@@ -24,7 +24,7 @@ export default function PrivacyPolicyPage() {
               Cooperative Principle of Data Sovereignty
             </h3>
             <p className="text-sm text-gray-text leading-relaxed">
-              Unlike commercial aggregators, Sahayak Seva does not sell, broker, or monetize user data. Worker location and customer home address data are decrypted exclusively during active service dispatches and purged automatically.
+              Unlike commercial aggregators, Sahakar Seva does not sell, broker, or monetize user data. Worker location and customer home address data are decrypted exclusively during active service dispatches and purged automatically.
             </p>
           </div>
         </div>
@@ -63,7 +63,7 @@ export default function PrivacyPolicyPage() {
         <section className="space-y-3">
           <h2 className="font-heading font-bold text-xl text-forest-green">4. Contact Grievance Officer</h2>
           <p className="text-gray-text">
-            In compliance with the Information Technology Act and Digital Personal Data Protection Act, our dedicated cooperative grievance officer can be reached at <span className="font-semibold text-coop-green">grievance@sahayakseva.org</span>.
+            In compliance with the Information Technology Act and Digital Personal Data Protection Act, our dedicated cooperative grievance officer can be reached at <span className="font-semibold text-coop-green">grievance@sahakarseva.org</span>.
           </p>
         </section>
       </div>

@@ -20,7 +20,7 @@ export default function ProfilePage() {
   const { showToast } = useToast();
 
   const [fullName, setFullName] = useState(user?.fullName || 'Sunita Sharma');
-  const [email, setEmail] = useState(user?.email || 'sunita.sharma@sahayakseva.org');
+  const [email, setEmail] = useState(user?.email || 'sunita.sharma@sahakarseva.org');
   const [phone, setPhone] = useState(user?.phone || '+91 98765 43210');
   const [city, setCity] = useState(user?.city || 'New Delhi');
   const [address, setAddress] = useState(user?.address || 'B-42, Malviya Nagar, New Delhi');
